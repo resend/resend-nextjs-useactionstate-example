@@ -8,7 +8,7 @@ import {
 	Section,
 	Text,
 	Tailwind,
-} from "@react-email/components";
+} from "react-email";
 
 const ContactThankYouEmail = () => {
 	return (
