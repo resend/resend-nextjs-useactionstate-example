@@ -2,6 +2,7 @@
 	"name": "resend-next-actions",
 	"version": "0.1.0",
 	"private": true,
+	"packageManager": "pnpm@11.3.0",
 	"scripts": {
 		"dev": "next dev --turbopack",
 		"build": "next build --turbopack",

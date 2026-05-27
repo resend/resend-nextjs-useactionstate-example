@@ -19,15 +19,13 @@ cp .env.example .env
 2. Install dependencies:
 
 ```sh
-npm install
-# or
-yarn
+pnpm install
 ```
 
 3. Run Next.js locally:
 
 ```sh
-npm run dev
+pnpm dev
 ```
 
 4. Update the email address in the `components/form/actions.ts` file to your own email address.
